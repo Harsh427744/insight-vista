@@ -295,7 +295,7 @@ const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api
 **Harsh Agarwal**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Harsh427744-181717?style=for-the-badge&logo=github)](https://github.com/Harsh427744)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh323)
 
 ---
 
